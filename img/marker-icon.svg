@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   width="25"
+   height="41"
+   sodipodi:docname="marker-icon.png">
+  <metadata
+     id="metadata8">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs6">
+    <filter
+       id="filter4265"
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Drop Shadow">
+      <feFlood
+         id="feFlood4267"
+         flood-opacity="0.583"
+         flood-color="rgb(0,0,0)"
+         result="flood" />
+      <feComposite
+         id="feComposite4269"
+         in2="SourceGraphic"
+         in="flood"
+         operator="in"
+         result="composite1" />
+      <feGaussianBlur
+         id="feGaussianBlur4271"
+         in="composite"
+         stdDeviation="3"
+         result="blur" />
+      <feOffset
+         id="feOffset4273"
+         dx="1.1"
+         dy="1.2"
+         result="offset" />
+      <feComposite
+         id="feComposite4275"
+         in2="offset"
+         in="SourceGraphic"
+         operator="over"
+         result="composite2" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1680"
+     inkscape:window-height="988"
+     id="namedview4"
+     showgrid="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:zoom="5.7560976"
+     inkscape:cx="5.6151714"
+     inkscape:cy="43.022998"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2">
+    <sodipodi:guide
+       orientation="0,1"
+       position="41.694915,18.936441"
+       id="guide2997" />
+  </sodipodi:namedview>
+  <image
+     width="25"
+     height="41"
+     xlink:href="data:image/png;base64,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
+"
+     id="image10"
+     x="-11.793104"
+     y="-2.2112069" />
+  <path
+     style="fill:#84cfd1;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-opacity:1;filter:url(#filter4265)"
+     d="m 53.908898,-37.689089 c -6.767571,0 -12.25,5.836973 -12.25,13.0625 0,2.996952 1.678276,6.110848 2.875,8.46875 l 9.03125,18.0625 9.75,-18.0625 c 1.560968,-3.074832 2.84375,-5.023563 2.84375,-8.46875 0,-7.225527 -5.48243,-13.0625 -12.25,-13.0625 z m 0.09375,5.09375 c 4.218308,0 7.65625,3.406693 7.65625,7.625 0,4.218307 -3.437942,7.65625 -7.65625,7.65625 -4.218307,0 -7.625,-3.437943 -7.625,-7.65625 0,-4.218307 3.406693,-7.625 7.625,-7.625 z"
+     id="path2991"
+     inkscape:connector-curvature="0"
+     inkscape:export-filename="D:\GEOWEB\INFO_TRAVAUX_TEST\img\marker-icon.png"
+     inkscape:export-xdpi="73.529404"
+     inkscape:export-ydpi="73.529404" />
+</svg>

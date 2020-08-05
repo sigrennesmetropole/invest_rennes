@@ -1,0 +1,54 @@
+@import url(https://fonts.googleapis.com/css?family=PT+Sans:400,700);
+#map{
+    display: block;
+    width: 100%;
+    height: 100%;
+}
+
+.modal-dialog{
+/*    width: 80%;
+    height: 80%;*/
+    border-radius: 0;
+    border: none;
+}
+.modal-content {
+    border-radius: 0;
+    border: 0;
+    font-size: 16px;
+    color: #313131;
+}
+.modal-header{
+    font-weight: 700;
+    border-bottom: 0;   
+    font-size: 36px;
+    color: #313131;
+}
+.modal-body img{
+    width: 100%;
+    padding: 10px 0px 10px 0px;
+    max-height: 60%;
+}
+.modal-body .montant{
+    color: #4d9993;
+    font-size: 25px;
+    font-weight: 700;
+}
+.modal-footer{
+    border-top: solid 1px #89BBB7;   
+}
+.btn{
+    border-radius: 0;
+}
+.btn-default{
+    background-color: #e4e9ff;
+}
+h4{
+    font-size: 24px;
+    font-weight: 700;   
+}
+
+@media (min-width: 992px) {
+    .modal-lg {
+        width: 600px;
+    }
+}
