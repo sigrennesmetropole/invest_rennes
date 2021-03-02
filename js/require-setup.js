@@ -7,7 +7,7 @@ require.config({
     waitSeconds: 200,
     paths: {
         jquery               : '../lib/jquery-1.12/jquery-1.12.0.min',
-        bootstrap           : 'https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min',
+        bootstrap           : '../lib/bootstrap/3.3.6/js/bootstrap.min',
         leaflet             : '../lib/leaflet-v0.7.7/leaflet'
         
     },
