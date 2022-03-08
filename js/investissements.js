@@ -47,7 +47,7 @@ function ($){
                 {
                     attribution: 'Plan de ville communal et intercommunal, Référentiel voies et adresses : Rennes Métropole',
                     id: 1,
-                    center: [48.1, -1.67],
+                    center: [48.11, -1.67],
                     minZoom : 0,
                     maxZoom : 20
                 }
@@ -64,14 +64,14 @@ function ($){
                 {
                     attribution: 'Orthophotographie aérienne 2017 sur Rennes Métropole',
                     id: 2,
-                    center: [48.1, -1.67],
+                    center: [48.11, -1.67],
                     minZoom : 0,
                     maxZoom : 20
                 }
             );
 
             map.addLayer(pvciLayer);
-            map.setView([48.1, -1.67], 13);
+            map.setView([48.11, -1.67], 13);
             var baseMaps = {"Plan de la ville de Rennes": pvciLayer};
             var baseLayers = {
                 "Plan de la ville de Rennes": pvciLayer,
